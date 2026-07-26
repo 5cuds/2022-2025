@@ -1,0 +1,7 @@
+print('whats your name? ')
+name = input()
+print('what is your age? ')
+age = input()
+print(f"{name} is {age} years old")
+print(name + " is " + age, "years old")
+print(name, "is", age, "years old")

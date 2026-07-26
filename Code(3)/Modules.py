@@ -1,0 +1,4 @@
+number = [5, 8, 2, 3, 7, 4]
+
+for i in number:
+    print(max(i))
