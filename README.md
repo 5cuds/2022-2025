@@ -1,1 +1,1 @@
-These are so unbelievably stupid
+These are were unbelievably stupid
